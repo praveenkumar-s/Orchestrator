@@ -9,7 +9,7 @@ def get_next_job_by_vm(vm):
     #Order these Jobs and return the first item
     # check items in rank 0 
     # check AMQ items order by timestamp asc
-    # check regression order by timestamp asc
+    # check regression order by timestamp ascs
 
 
     pass
