@@ -80,4 +80,4 @@ parameters={
     "POR":""
 }
 AMQ = run_regression("AMQ",parameters, 1,'CODEDUIW2K8VM24')
-status = AMQ.execute()
+status = AMQ.process()
